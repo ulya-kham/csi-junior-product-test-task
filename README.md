@@ -4,3 +4,6 @@
 Задания: https://habr.com/ru/companies/crystal_service/articles/805079/
 
 [Решение Задания №1](./task1.md)
+
+
+[Решение Задания №2](./task2.md)
